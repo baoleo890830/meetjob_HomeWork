@@ -1,0 +1,38 @@
+.ttop{
+  margin-left: 3%;
+  float: left;
+
+}
+
+body{margin:0;
+	background-color: #0B1C59;
+}
+
+#Rtop{
+	float: right;
+}
+
+.image{
+float:left;
+min-width: 24%;
+min-height: 150pt;
+max-width: 24%;
+max-height: auto;
+background-repeat: no-repeat;
+padding-right:5pt;
+ background-size:  contain;               
+    background-position: center center;   
+}
+
+
+.space{
+	background-color:#4E5E96 ;
+	min-height:65pt ;
+	max-height:30%;
+}
+
+img{
+	min-width: 24%;
+	max-width: 100%: 
+	max-height:auto;}
+
