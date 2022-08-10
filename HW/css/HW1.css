@@ -31,8 +31,11 @@ padding-right:5pt;
 	max-height:30%;
 }
 
-img{
+.img{
 	min-width: 24%;
-	max-width: 100%: 
-	max-height:auto;}
+}
 
+.img:hover{
+	transform:scale(1.5);
+	/*沒反應*/
+}
