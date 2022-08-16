@@ -1,0 +1,120 @@
+/*指定div大小*/
+body{
+	background-color: #345be9;
+	margin:0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#header{
+	margin:0px;
+	height:65px;
+	width:100%;
+	background-color: #345be9;
+	image-rendering: crisp-edges;
+	clear: none;
+}
+
+/*rgb(125, 81, 143)*/
+
+#section{
+	margin:0px;
+	text-align: center;
+}
+
+#banner{
+	margin:0px;
+	min-height: 30pt;
+	background-color: rgb(0, 0, 0);
+	align-items: center;
+}
+
+/*#345be9*/
+
+#banner ul{
+	color: aliceblue;
+	padding-top: 0.3%;
+	margin-top: 0px;
+	margin-left: 20%;
+}
+
+#banner li{
+	font-size: 150%;
+	font-weight: bolder;
+	padding-top: 0%;
+	align-content: center;
+    list-style: none;
+    float: left;
+	padding-right:10% ;
+	
+}
+a{
+	text-decoration: none ;
+	color: aliceblue;
+}
+
+#left{
+	padding-top: 2%;
+	min-width: 80%;
+	align-items:center ;
+	float: left;
+	background-color: antiquewhite;
+}
+
+#left1{
+	font-size: xx-large;
+	font-weight: 1000;
+	padding-left: 5%;
+	min-width: 80%;
+	min-height: 50%;
+}
+#left1 ul{margin: 0%;
+padding-left: 15%;
+}
+#left1 li{
+	font-weight: 600;
+	font-size: 57%;
+	list-style:none ;
+	padding-bottom: 1%;
+}
+#left2{
+	font-size: xx-large;
+	font-weight: 1000;
+	padding-left: 5%;
+	min-width: 80%;
+	float: left;
+	text-align: left;
+	background-color: aqua;
+	border-width: 10px 10px 10px 10px;
+	border: black;
+	min-height:50%;
+	/*this block is in a wrong size (crying)*/
+}
+
+#left2 ul{
+	margin: 0% 1%;
+	padding-left: 0%;
+}
+
+#left2 li{
+	font-weight: 600;
+	font-size: 57%;
+	list-style:none ;
+	padding-bottom: 12%;
+}
+
+#left2 img{
+	width:80% ;
+	}
+
+#right{
+	align-items: center;
+	float: right;
+	min-width: 20%;
+	padding-top: 3%;
+}
+.right1{
+	font-weight: 600;
+	font-size: 150%;
+	padding-left: 25%;
+	padding-bottom: 10%;
+}

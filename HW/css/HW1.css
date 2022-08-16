@@ -39,3 +39,14 @@ padding-right:5pt;
 	transform:scale(1.5);
 	/*沒反應*/
 }
+
+#fb{
+	margin-top: 3%;
+	float: left;
+}
+
+#ig{float: right;}
+
+#tw{
+	float: right;
+}
